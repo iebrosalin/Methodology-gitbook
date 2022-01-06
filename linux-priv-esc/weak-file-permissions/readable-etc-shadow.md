@@ -1,0 +1,2 @@
+# Readable /etc/shadow
+
