@@ -1,4 +1,8 @@
-# NFS
+# NFS (no\_root\_squash)
+
+```
+showmount -e ip_address
+```
 
 Files created via NFS inherit the **remote** user's ID. If the user is root, and root squashing is enabled, the ID will instead be set to the "nobody" user.
 
