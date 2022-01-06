@@ -27,6 +27,8 @@
   * [Java](web/java/README.md)
     * [OGNL](web/java/ognl.md)
   * [AWS](web/aws.md)
+  * [Kibana](web/kibana/README.md)
+    * [Prototype pollution (CVE-2019-7609)](web/kibana/prototype-pollution-cve-2019-7609.md)
   * [node js](web/node-js/README.md)
     * [AST injection](web/node-js/ast-injection/README.md)
       * [Pug](web/node-js/ast-injection/pug.md)
