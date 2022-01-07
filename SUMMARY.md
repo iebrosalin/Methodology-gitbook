@@ -84,3 +84,4 @@
   * [Argparse](python/argparse.md)
 * [Docker](docker.md)
 * [Vim](vim.md)
+* [C](c.md)
