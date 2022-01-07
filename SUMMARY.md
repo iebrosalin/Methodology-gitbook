@@ -85,3 +85,4 @@
 * [Docker](docker.md)
 * [Vim](vim.md)
 * [C](c.md)
+* [gdb](gdb.md)
