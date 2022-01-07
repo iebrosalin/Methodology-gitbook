@@ -33,6 +33,8 @@
     * [AST injection](web/node-js/ast-injection/README.md)
       * [Pug](web/node-js/ast-injection/pug.md)
       * [Flat, handlebars](web/node-js/ast-injection/flat-handlebars.md)
+  * [Python](web/python/README.md)
+    * [ZipSlip](web/python/zipslip.md)
 * [Linux priv esc](linux-priv-esc/README.md)
   * [Kernel Exploits](linux-priv-esc/kernel-exploits.md)
   * [Passwords & Keys](linux-priv-esc/passwords-and-keys/README.md)
