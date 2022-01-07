@@ -78,6 +78,7 @@
   * [Hydra](brute/hydra.md)
   * [Hashcat](brute/hashcat.md)
 * [Python](python/README.md)
+  * [SSTI](python/ssti.md)
   * [Venv](python/venv.md)
   * [Import](python/import.md)
   * [Argparse](python/argparse.md)
