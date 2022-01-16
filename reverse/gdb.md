@@ -10,5 +10,6 @@ continue
 ni
 si
 set $eax=0
+x/s 0x4006da
 ```
 
