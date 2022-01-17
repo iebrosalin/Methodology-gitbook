@@ -73,6 +73,8 @@
     * [Post](db/mssql/post.md)
 * [Crypto](crypto.md)
 * [Brute](brute/README.md)
+  * [Wordlist](brute/wordlist.md)
+  * [Python](brute/python.md)
   * [cheatshet CSRF burp/hydra/parrot](brute/cheatshet-csrf-burp-hydra-parrot.md)
   * [John](brute/john.md)
   * [Hydra](brute/hydra.md)
