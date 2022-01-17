@@ -1,7 +1,7 @@
 # Wordlist
 
 ```
-#spec chars
+#special chars
 !
 "
 #
