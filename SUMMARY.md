@@ -66,6 +66,7 @@
     * [Environment Variables](linux-priv-esc/abusing-suid-guid-files/environment-variables.md)
     * [Shared Object Injection](linux-priv-esc/abusing-suid-guid-files/shared-object-injection.md)
     * [Known Exploits](linux-priv-esc/abusing-suid-guid-files/known-exploits.md)
+  * [Python (PDB)](linux-priv-esc/python-pdb.md)
 * [Shares](shares.md)
 * [DB](db/README.md)
   * [SQLMAP](db/sqlmap.md)
