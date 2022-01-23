@@ -35,6 +35,8 @@
       * [Flat, handlebars](web/node-js/ast-injection/flat-handlebars.md)
   * [Python](web/python/README.md)
     * [ZipSlip](web/python/zipslip.md)
+  * [PHP](web/php/README.md)
+    * [Eval](web/php/eval.md)
 * [Linux priv esc](linux-priv-esc/README.md)
   * [Kernel Exploits](linux-priv-esc/kernel-exploits.md)
   * [Passwords & Keys](linux-priv-esc/passwords-and-keys/README.md)
