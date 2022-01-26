@@ -38,6 +38,8 @@
   * [PHP](web/php/README.md)
     * [Eval](web/php/eval.md)
     * [Unsafe deserilization](web/php/unsafe-deserilization.md)
+  * [Web servers](web/web-servers/README.md)
+    * [Nginx](web/web-servers/nginx.md)
 * [Linux priv esc](linux-priv-esc/README.md)
   * [Kernel Exploits](linux-priv-esc/kernel-exploits.md)
   * [Passwords & Keys](linux-priv-esc/passwords-and-keys/README.md)
