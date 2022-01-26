@@ -37,6 +37,7 @@
     * [ZipSlip](web/python/zipslip.md)
   * [PHP](web/php/README.md)
     * [Eval](web/php/eval.md)
+    * [Unsafe deserilization](web/php/unsafe-deserilization.md)
 * [Linux priv esc](linux-priv-esc/README.md)
   * [Kernel Exploits](linux-priv-esc/kernel-exploits.md)
   * [Passwords & Keys](linux-priv-esc/passwords-and-keys/README.md)
