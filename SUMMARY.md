@@ -34,6 +34,7 @@
       * [Pug](web/node-js/ast-injection/pug.md)
       * [Flat, handlebars](web/node-js/ast-injection/flat-handlebars.md)
   * [Python](web/python/README.md)
+    * [Evirarc](web/python/evirarc.md)
     * [ZipSlip](web/python/zipslip.md)
   * [PHP](web/php/README.md)
     * [Eval](web/php/eval.md)
