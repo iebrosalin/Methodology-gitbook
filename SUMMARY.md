@@ -15,7 +15,7 @@
     * [Lack of security headers](external-pentest-1/a02-2021-cryptographic-failures/lack-of-security-headers.md)
   * [A03:2021-Injection](external-pentest-1/a03-2021-injection.md)
 * [Windows](windows/README.md)
-  * [Script](windows/script.md)
+  * [Privilege Escalation Scripts](windows/privilege-escalation-scripts.md)
   * [Insecure GUI Apps](windows/insecure-gui-apps.md)
   * [Scheduled Tasks](windows/scheduled-tasks.md)
   * [Enum](windows/enum.md)
