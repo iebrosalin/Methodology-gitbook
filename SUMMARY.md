@@ -64,6 +64,8 @@
   * [Web servers](web/web-servers/README.md)
     * [Nginx](web/web-servers/nginx.md)
 * [Linux priv esc](linux-priv-esc/README.md)
+  * [Hijacking](linux-priv-esc/hijacking/README.md)
+    * [Hijacking Pyrhon](linux-priv-esc/hijacking/hijacking-pyrhon.md)
   * [Kernel Exploits](linux-priv-esc/kernel-exploits.md)
   * [Passwords & Keys](linux-priv-esc/passwords-and-keys/README.md)
     * [SSH Keys](linux-priv-esc/passwords-and-keys/ssh-keys.md)
