@@ -119,7 +119,7 @@
 * [Vim](vim.md)
 * [Shell](shell/README.md)
   * [Perl](shell/perl.md)
-  * [Page 1](shell/page-1.md)
+  * [Python](shell/python.md)
 * [Reverse](reverse/README.md)
   * [r2](reverse/r2.md)
   * [gdb](reverse/gdb.md)
